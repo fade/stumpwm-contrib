@@ -86,13 +86,12 @@ Advertise your module here, open a PR and include a org-mode link!
 # --
 ** Media
 - [[./media/amixer/README.org][amixer]] :: Manipulate the volume using amixer
+- [[./media/aumix/README.org][aumix]] :: Manipulate your volume with aumix
 - [[./media/stump-radio/README.org][stump-radio]] :: Minimalistic mplayer-based radio for StumpWM.
 - [[./media/stump-volume-control/README.org][stump-volume-control]] :: Minimalistic amixer-based volume control for StumpWM.
-
 ** Minor Modes
 - [[./minor-mode/mpd/README.org][mpd]] :: Displays information about the music player daemon (MPD).
 - [[./minor-mode/notifications/README.org][notifications]] :: A notification library that sends notifications to the modeline via stumpish or from stumpwm itself.
-
 ** Modeline
 - [[./modeline/battery-portable/README.org][battery-portable]] :: Add battery information to the modeline in a portable way.
 - [[./modeline/bitcoin/README.org][bitcoin]] :: Display bitcoin price on StumpWM modeline.
@@ -104,7 +103,6 @@ Advertise your module here, open a PR and include a org-mode link!
 - [[./modeline/net/README.org][net]] :: Displays information about the current network connection.
 - [[./modeline/stumptray/README.org][stumptray]] :: System Tray for stumpwm.
 - [[./modeline/wifi/README.org][wifi]] :: Display information about your wifi.
-
 ** Utilities
 - [[./util/alert-me/README.org][alert-me]] :: Alert me that an event is coming
 - [[./util/app-menu/README.org][app-menu]] :: A simple application menu for launching shell commands
@@ -132,6 +130,7 @@ Advertise your module here, open a PR and include a org-mode link!
 - [[./util/screenshot/README.org][screenshot]] :: Takes screenshots and stores them as png files
 - [[./util/searchengines/README.org][searchengines]] :: Allows searching text using prompt or clipboard contents with various search engines
 - [[./util/shell-command-history/README.org][shell-command-history]] :: Save and load the stumpwm::*input-shell-history* to a file
+- [[./util/stumptray/README.org][stumptray]] :: System Tray for stumpwm.
 - [[./util/surfraw/README.org][surfraw]] :: Integrates surfraw with stumpwm.
 - [[./util/swm-emacs/README.org][swm-emacs]] :: A set of utilities for launching the beast.
 - [[./util/swm-gaps/README.org][swm-gaps]] :: Pretty (useless) gaps for StumpWM
